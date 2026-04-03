@@ -8,6 +8,8 @@
 
 > Unofficial CLI — not affiliated with Meta Platforms, Inc.
 
+![demo](demo_cli.gif)
+
 Stop clicking through the Meta Developer Dashboard. Manage your Meta apps and WhatsApp Business API entirely from the terminal — send messages, manage templates, configure webhooks, and inspect your setup in seconds.
 
 Works great as a standalone tool, in scripts, and as a tool for **AI agents** (Cursor, Claude Code, Codex, etc.).
